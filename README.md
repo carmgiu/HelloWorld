@@ -1,5 +1,5 @@
 # HelloWorld
-Test per inserire in Windows su Git carmgiu
+
 Creato il ramo readme-edits
 
 Prova di dettato perché non va eccolo abbiamo tutto per dettare un testo in un file l'ascolto va avanti per molto tempo e si possono eseguire molti paragrafi.
