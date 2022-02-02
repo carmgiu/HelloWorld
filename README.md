@@ -8,8 +8,6 @@ Prova di dettato perché non va eccolo abbiamo tutto per dettare un testo in un 
 
  esempio di inserimento di un bot echo, eseguito con framework  - LINK       questo ascolto è a posto   
 
-  -->   ID  00034001D91539F5   <--  identita' per carmela su account microsoft  ?  maurizsisti@gmail.com  ( S54@gmasis )  non ricevo mail per carmgiuffrida@outlook.com ??
-
  https://github.com/microsoft/BotBuilder-Samples/tree/main/samples/javascript_nodejs/01.console-echo
 
  Esempio di bot console bot di Bot Framework v4
